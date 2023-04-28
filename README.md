@@ -1,7 +1,8 @@
 # Nuxt 3 Minimal Starter
 
-###Demo
-https://tiiny.host/manage
+Static Generated Wordpress Backend site
+
+Demo: https://tiiny.host/manage
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
