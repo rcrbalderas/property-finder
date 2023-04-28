@@ -2,7 +2,7 @@
 
 Static Generated Wordpress Backend site
 
-Demo: https://tiiny.host/manage
+Demo: https://fuchsia-ingrid-13.tiiny.site/
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
