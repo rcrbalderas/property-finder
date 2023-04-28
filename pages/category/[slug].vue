@@ -24,9 +24,9 @@
     }
 
     const handlePageClick = async (pageNumber) => {
-        await router.push({ path: `/${current_cat}`, query: { page: pageNumber } } , { shallow: true });
+        await router.push({ path: `/category/${current_cat}`, query: { page: pageNumber } } , { shallow: true });
         await paginate(pageNumber);
-    };
+    }; 
 
     watchEffect(() => {
         paginate();
